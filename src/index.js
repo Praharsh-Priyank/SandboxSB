@@ -15,7 +15,7 @@ const today = new Date();
 const year = 2020;
 ReactDOM.render(
   <div>
-    <p>Created by {name + "Priyank"}</p>
+    <p>Created by {name + "Priyank Mitra"}</p>
     <p>Copyright {today.getFullYear()}</p>
   </div>,
   document.getElementById("root")
